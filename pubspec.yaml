@@ -1,6 +1,5 @@
 name: number_magnifier
 description: Make numbers in a text appear larger.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 0.0.1
 homepage: https://github.com/Arouven/flutter-number_magnifier
 
